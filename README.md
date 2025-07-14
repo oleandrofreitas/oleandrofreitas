@@ -24,7 +24,7 @@ Atualmente, estou dedicado a construir uma base sólida em desenvolvimento back-
   <a href="#"><img src="https://img.shields.io/badge/Open%20Source-%2300b894?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-%23282c34?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" /></a>
 </p>
-<h4>🔭 Trabalhando nos meus repositórios de estudos (em construção ...)</h4>
+<h4>🔭 Trabalhando nos meus repositórios de estudos ( em construção  ... )</h4>
 </div>
 
 <hr>

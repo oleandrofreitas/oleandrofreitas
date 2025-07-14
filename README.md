@@ -6,8 +6,9 @@
 <h4 align="center">🚀 Em transição para desenvolvimento Back-End | ☕ Estudando Java & Spring Framework | 🐧 Ubuntu/Linux user</h4>
 
 <div align="center">
-🎓 Sou graduado em Tecnologia em Redes de Computadores e sempre tive afinidade com tecnologia e programação.<br>
-Atualmente, estou dedicado a construir uma base sólida em desenvolvimento back-end, estruturando meu aprendizado com boas práticas de código.
+🎓 Sou graduado em Tecnologia em Redes de Computadores e sempre tive afinidade com tecnologia e programação.
+<p> Atualmente, estou dedicado a construir uma base sólida em desenvolvimento back-end, estruturando meu aprendizado com boas práticas de código.
+Também curto brincar um pouco com HTML e CSS!
 </div>
 
 <hr>

@@ -36,12 +36,6 @@ Atualmente, estou dedicado a construir uma base sólida em desenvolvimento back-
   </a>
 </div>
 
-<hr>
-
-<div align="center">
-  ✉️ Contato: <a href="mailto:leandro_freitas@hotmail.com">leandro_freitas@hotmail.com</a>
-</div>
-
 
 
 

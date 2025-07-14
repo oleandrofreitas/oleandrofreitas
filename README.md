@@ -18,10 +18,10 @@ Atualmente, estou dedicado a construir uma base sólida em desenvolvimento back-
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/☕_Java-FF0000?style=for-the-badge&logo=java&logoColor=0000FF" alt="Java" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/🌱_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/_Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /></a>
   <a href="#"><img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST APIs" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/🎲_Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Banco de Dados" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/🐙_Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/_Banco_de_Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Banco de Dados" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/_Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Open%20Source-%2300b894?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-%23282c34?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Badge" /></a>

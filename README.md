@@ -32,7 +32,7 @@ Também curto brincar um pouco com HTML e CSS!
 
 <h3 align="center">📫 Vamos nos conectar?</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/oleandrofreitas/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/oleandrofreitas/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>

@@ -6,7 +6,7 @@
 <h4 align="center">☕ Desenvolvedor Java Back-End em formação | 🌱 Spring Boot | 🛢️ SQL | 🐙 Git | 🐧 Ubuntu | 🚀 Transição de Carreira</h4>
 
 <div align="center">
-🎓 Sou graduado em Tecnologia em Redes de Computadores e sempre tive afinidade com tecnologia e programação.
+🎓 Sou formado em Tecnologia em Redes de Computadores e sempre tive afinidade com tecnologia e programação.
 <p> Atualmente, estou dedicado a construir uma base sólida em desenvolvimento back-end, estruturando meu aprendizado com boas práticas de código.
 Também curto brincar um pouco com HTML e CSS!
 </div>

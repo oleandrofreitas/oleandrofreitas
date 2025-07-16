@@ -3,7 +3,7 @@
 
 <hr>
 
-<h4 align="center">☕ Desenvolvedor Java Back-End em formação | 🌱 Spring Boot | 🛢️ SQL | 🐙 Git | 🐧 Ubuntu/Linux use | 🚀 Transição de Carreirar</h4>
+<h4 align="center">☕ Desenvolvedor Java Back-End em formação | 🌱 Spring Boot | 🛢️ SQL | 🐙 Git | 🐧 Ubuntu | 🚀 Transição de Carreirar</h4>
 
 <div align="center">
 🎓 Sou graduado em Tecnologia em Redes de Computadores e sempre tive afinidade com tecnologia e programação.

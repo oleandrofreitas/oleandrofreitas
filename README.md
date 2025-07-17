@@ -1,4 +1,10 @@
-<h1 align="center">Olá, eu sou Leandro de Freitas. ✌️ </h1>
+<div align="center">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Ol%C3%A1%2C+eu+sou+Leandro+de+Freitas.+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+</div>
+
+<hr>
+
 <h3 align="center"> Seja bem-vindo(a) ao meu perfil no GitHub! </h3>
 
 <hr>

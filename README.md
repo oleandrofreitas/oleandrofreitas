@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Ol%C3%A1%2C+eu+sou+Leandro+de+Freitas.+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&lines=Ol%C3%A1%2C+eu+sou+Leandro+de+Freitas.+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -40,7 +40,9 @@ Também curto brincar um pouco com HTML e CSS!
 <div align="center">
   <a href="https://www.linkedin.com/in/oleandrofreitas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a><br><br>
-  <strong>leandro_freitas@hotmail.com</strong>
+  </a>
+  <br><br>
+  <a href="mailto:leandro_freitas@hotmail.com">
+    <img src="https://img.shields.io/badge/leandro__freitas@hotmail.com-FFFFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=0A66C2&labelColor=FFFFFF&color=FFFFFF" alt="E-mail" />
   </a>
 </div>

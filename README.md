@@ -41,7 +41,6 @@ Também curto brincar um pouco com HTML e CSS!
   <a href="https://www.linkedin.com/in/oleandrofreitas/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a><br><br>
-  <a href="mailto:leandro_freitas@hotmail.com">
-    <img src="https://img.shields.io/badge/E--MAIL-FFFFFF?style=for-the-badge&logo=microsoft-outlook&logoColor=0A66C2&labelColor=FFFFFF" alt="E-mail" />
+  <strong>leandro_freitas@hotmail.com</strong>
   </a>
 </div>
